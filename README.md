@@ -41,9 +41,9 @@ Thank you for your interest in contributing to this project, however I am curren
 
 ## [Application Preview](#table-of-contents)
 Click the image to see the recorded walkthrough demo.
-<a href='https://drive.google.com/file/d/1Jf67DUFVmV1mvrI1z5k8d1vWgiZ31pDC/view' alt='walkthrough video link'><img src='./assets/images/jesshop.png'></a>
+<a href='https://drive.google.com/file/d/1Jf67DUFVmV1mvrI1z5k8d1vWgiZ31pDC/view' alt='walkthrough video link' target='_blank'><img src='./assets/images/jesshop.png'></a>
 <br>
-<a href="https://drive.google.com/file/d/1Jf67DUFVmV1mvrI1z5k8d1vWgiZ31pDC/view" alt='walkthrough video link'>Walkthrough Video</a>
+<a href="https://drive.google.com/file/d/1Jf67DUFVmV1mvrI1z5k8d1vWgiZ31pDC/view" alt='walkthrough video link' target='_blank'>Walkthrough Video</a>
 ## [Questions](#table-of-contents)
 Questions? Please contact me at the following links: <br>
 [GitHub](https://github.com/jessica-calderon) <br>
